@@ -2,7 +2,7 @@
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
+  "main": "./src/main/main.js",
   "scripts": {
     "dev": "eletron-vite dev -w",
     "build": "eletron-vite build",
